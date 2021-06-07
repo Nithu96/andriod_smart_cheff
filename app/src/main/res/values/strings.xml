@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">SmartChef</string>
+    <string name="smart_chef">Smart Chef</string>
+    <string name="smart_chef_theme">Cooking is an art from,a creative thing.</string>
+    <string name="register_product">Register Product</string>
+    <string name="availability">Availability</string>
+    <string name="display_products">Display Products</string>
+    <string name="edit_products">Edit Products</string>
+    <string name="recipes">Recipes</string>
+    <string name="search">Search</string>
+    <string name="all_fields_are_required">*All fields are required</string>
+    <string name="empty">Can\'t be Empty</string>
+    <string name="product">Product</string>
+    <string name="register_your_new">Register your new</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_price">Product Price</string>
+    <string name="product_weight">Product Weight</string>
+    <string name="product_description">Product Description</string>
+    <string name="save_product">Save Product</string>
+    <string name="success">Success</string>
+    <string name="error">Error</string>
+    <string name="success_msg_add_product">Your Product Added Successfully!</string>
+    <string name="success_msg_update_product">Your Product Updated Successfully!</string>
+    <string name="success_msg_add_to_kitchen"> Product(s) Added to Kitchen Successfully!</string>
+    <string name="success_msg_remove_from_kitchen"> Product(s) Removed Successfully!</string>
+    <string name="error_msg_add_product">Something went Wrong</string>
+    <string name="ok">OK</string>
+    <string name="select_available">Select Available</string>
+    <string name="products">Products</string>
+    <string name="add_to_kitchen">Add to Kitchen</string>
+    <string name="check_availability_of_your">Check availability of your</string>
+    <string name="save">Save</string>
+    <string name="available">Available</string>
+    <string name="not_available">Not Available</string>
+    <string name="check_recipes_of_your">Check recipes of your</string>
+    <string name="find_recipes">Find recipes</string>
+    <string name="no_recipes_available">No Recipes Available</string>
+    <string name="find_recipes_for_your">Find recipes for your</string>
+
+</resources>
